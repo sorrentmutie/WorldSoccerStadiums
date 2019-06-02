@@ -18,4 +18,4 @@ For each stadium these are the available informations:
 The data are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
 
 There are some data missing (Latitudes and Longitudes equal to 0). In next weeks I'll fill
-all the holes. Feel free to contribute to this little project, opening issues.
+all the holes. Feel free to contribute to this little project forking the repository and sending a PR.
